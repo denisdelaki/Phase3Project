@@ -1,0 +1,3 @@
+[submodule "DelhiaCakes"]
+	path = DelhiaCakes
+	url = https://github.com/denisdelaki/DelhiaCakes.git
