@@ -1,3 +1,9 @@
 [submodule "DelhiaCakes"]
 	path = DelhiaCakes
 	url = https://github.com/denisdelaki/DelhiaCakes.git
+[submodule "phase-3-sinatra-react-project"]
+	path = phase-3-sinatra-react-project
+	url = https://github.com/denisdelaki/phase-3-sinatra-react-project.git
+[submodule "DelhiaCakes-backend-"]
+	path = DelhiaCakes-backend-
+	url = https://github.com/denisdelaki/DelhiaCakes-backend-.git
