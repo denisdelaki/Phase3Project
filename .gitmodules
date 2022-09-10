@@ -4,3 +4,6 @@
 [submodule "DelhiaCakes-backend-"]
 	path = DelhiaCakes-backend-
 	url = https://github.com/denisdelaki/DelhiaCakes-backend-.git
+[submodule "DelhiaCakes-front"]
+	path = DelhiaCakes-front
+	url = https://github.com/denisdelaki/DelhiaCakes-front.git
