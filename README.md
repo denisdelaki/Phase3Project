@@ -4,7 +4,7 @@
 
 ### The Landing page
 
-(blob:https://vercel.com/7432ae37-b923-40a7-8c52-dc4ff2f13552)
+(./src/landingpage.png)
 ## Description
 ### Project Idea
 _DelhiaCakes_ is a website that allows the user to view various available cakes' card that contain the image of the cake, its name, quantity in kilograms(Kgs), the number of such cakes still available in the store, and the price of such flavour. The cart has a button that allows the user to like the product and also shows the number of likes added by different users and customers. Additionally, the card has a button to allow the user to add the card to the cart then checkout later. As the user adds the products to the cart, the number of items increases in the Header showing the total number of items in the cart. The Cart page contains the cards for each cart that includes the image of the cake, name, quantity, the number of such cakes, and the price of the cake. The total amount of cakes increments as the number of items in the cart increases. The Cart page has the button to checkout to allow the user pay for the product. 
